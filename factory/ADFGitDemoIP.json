@@ -1,0 +1,9 @@
+{
+	"name": "ADFGitDemoIP",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab4e10e8-34a7-49e5-9f57-e36c6b87ce0d",
+		"tenantId": "b9fec68c-c92d-461e-9a97-3d03a0f18b82"
+	}
+}
